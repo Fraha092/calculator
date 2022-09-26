@@ -1,4 +1,4 @@
-# calculator 🧮
+# Calculator 🧮
 
 A simple Calculator App by using Flutter.
 
